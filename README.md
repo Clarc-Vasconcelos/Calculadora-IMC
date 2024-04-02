@@ -6,15 +6,15 @@ O projeto se compõe em uma calculadora que entrega o Índice de Massa Corporal 
 
 ## Vizualize a Página
 > Projeto piloto/Projeto atual.
-![piloto vs atual](https://github.com/Clarc-Vasconcelos/Calculadora-IMC/assets/129234188/495cf267-12e8-4583-8c5e-49cbffc81bdd)
+![pilotoEatual](https://github.com/Clarc-Vasconcelos/Calculadora-IMC/assets/129234188/4087ab26-ca95-4b35-996f-e1ce1b4153a1)
 <br />
 
 **** 
 Aqui podemos ver alguns testes com responsividade em algumas resoluções de tablet.
-![responsividade tablet](https://github.com/Clarc-Vasconcelos/Calculadora-IMC/assets/129234188/c6cd6480-f74c-4355-b2ec-2d86be455f1a)
+![tabletCorrec](https://github.com/Clarc-Vasconcelos/Calculadora-IMC/assets/129234188/38386b64-a4ca-4343-a13a-7b7c667724ce)
 **** 
 Aqui vemos outros testes com responsividade em algumas resoluções de mobile.
-![responsividade mobile imc](https://github.com/Clarc-Vasconcelos/Calculadora-IMC/assets/129234188/47b828e2-d62a-473b-bdf3-16b1d4954c1a)
+![mobileCorec](https://github.com/Clarc-Vasconcelos/Calculadora-IMC/assets/129234188/ce9a07c8-37d5-48d7-afc3-1a9dc046b2e9)
  > Acima podemos ver alguns testes com responsividade em algumas resoluções de mobile e tablet
 <p>Para visualizar a página em ação, acesse este <a href='https://calculadora-imc-beta-ten.vercel.app/' target='_blank'>link</a>.</p>
 
