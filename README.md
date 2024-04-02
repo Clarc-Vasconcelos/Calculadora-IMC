@@ -8,7 +8,7 @@ O projeto se compõe em uma calculadora que entrega o Índice de Massa Corporal 
 > Projeto piloto
 ![IMC-calc-project](https://github.com/Clarc-Vasconcelos/My-Web-Page/assets/129234188/b9d69488-050c-46af-8d46-db6f450de707)
 <br />
-
+> Projeto atual
 ![IMC-new](https://github.com/Clarc-Vasconcelos/Calculadora-IMC/assets/129234188/b752784a-be99-4ede-9816-578bb64e925c)
 <br />
 
