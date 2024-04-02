@@ -1,0 +1,92 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;  
+}
+
+body {
+  width: 100%;
+  min-height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+  background-color: #18181b;
+  color: white;
+}
+
+.testeLine {
+  border: solid 1px white;
+  background-color: rgb(250, 248, 252);
+  height: 500px;
+  width: 500px;
+}
+
+
+@media only screen and (min-width: 500px) and (max-width: 1024px) {
+
+  h1 {
+    background-color: black;
+    width: 100%;
+    font-size: 4rem;
+    margin-bottom: 20px;
+    position: relative;
+    margin-top: -170px;
+    row-gap: .12rem;
+  }
+  
+  .formStyle {
+    padding: 15px 17px;
+    border-radius: 16px;
+    border: solid 2px;
+    max-width: 100%;
+    min-height: 100%;
+   }
+
+  .img1 {
+    width: 15rem;
+    left: -140px;
+ 
+  }
+
+  .img2 {
+    width: 15rem;
+    left: -45px;
+
+  }
+
+  label {
+    font-size: 1.3rem;
+  }
+
+  input, button, .boxResult, .boxTextDescription {
+    font-size: 1.5rem;
+  }
+
+}
+
+@media only screen and (max-width: 499px) {
+
+  h1 {
+    font-size: 2.5rem;
+  }
+
+  .formStyle {
+    padding: 10px 13px;
+    border-radius: 16px;
+    border: solid 2px;
+    width: 100%;
+    min-height: 100%;
+    row-gap: .79rem;
+  }
+
+  .img1 {
+      left: 25px;
+      bottom: -350px;
+  }
+
+  .img2 {
+    left: -35px;
+  }
+
+}
