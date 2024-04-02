@@ -5,14 +5,18 @@
 O projeto se compõe em uma calculadora que entrega o Índice de Massa Corporal de um indivíduo. O cálculo se da por meio da divisão do peso (em Kg), de uma pessoa, pela sua altura (em metros) elevada a segunda potência. O projeto se materializa a partir de meus estudos iniciais de react, bem como meu treinamento projetando nessa tecnologia que para mim é nova. 
 
 ## Vizualize a Página
-> Projeto piloto
-![IMC-calc-project](https://github.com/Clarc-Vasconcelos/My-Web-Page/assets/129234188/b9d69488-050c-46af-8d46-db6f450de707)
-<br />
-> Projeto atual
-![IMC-new](https://github.com/Clarc-Vasconcelos/Calculadora-IMC/assets/129234188/b752784a-be99-4ede-9816-578bb64e925c)
+> Projeto piloto/Projeto atual.
+![piloto vs atual](https://github.com/Clarc-Vasconcelos/Calculadora-IMC/assets/129234188/495cf267-12e8-4583-8c5e-49cbffc81bdd)
 <br />
 
-<p>Para visualizar a página em ação, acesse este <a href='https://calculadora-de-imc-bay.vercel.app/' target='_blank'>link</a>.</p>
+**** 
+Aqui podemos ver alguns testes com responsividade em algumas resoluções de tablet.
+![responsividade tablet](https://github.com/Clarc-Vasconcelos/Calculadora-IMC/assets/129234188/c6cd6480-f74c-4355-b2ec-2d86be455f1a)
+**** 
+Aqui vemos outros testes com responsividade em algumas resoluções de mobile.
+![responsividade mobile imc](https://github.com/Clarc-Vasconcelos/Calculadora-IMC/assets/129234188/47b828e2-d62a-473b-bdf3-16b1d4954c1a)
+ > Acima podemos ver alguns testes com responsividade em algumas resoluções de mobile e tablet
+<p>Para visualizar a página em ação, acesse este <a href='https://calculadora-imc-beta-ten.vercel.app/' target='_blank'>link</a>.</p>
 
 ## Tecnologias Utilizadas
 <ul>
