@@ -5,7 +5,11 @@
 O projeto se compõe em uma calculadora que entrega o Índice de Massa Corporal de um indivíduo. O cálculo se da por meio da divisão do peso (em Kg), de uma pessoa, pela sua altura (em metros) elevada a segunda potência. O projeto se materializa a partir de meus estudos iniciais de react, bem como meu treinamento projetando nessa tecnologia que para mim é nova. 
 
 ## Vizualize a Página
+> Projeto piloto
 ![IMC-calc-project](https://github.com/Clarc-Vasconcelos/My-Web-Page/assets/129234188/b9d69488-050c-46af-8d46-db6f450de707)
+<br />
+
+![IMC-new](https://github.com/Clarc-Vasconcelos/Calculadora-IMC/assets/129234188/b752784a-be99-4ede-9816-578bb64e925c)
 <br />
 
 <p>Para visualizar a página em ação, acesse este <a href='https://calculadora-de-imc-bay.vercel.app/' target='_blank'>link</a>.</p>
